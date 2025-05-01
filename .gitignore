@@ -1,0 +1,12 @@
+node_modules/
+.terraform/
+*.tfstate
+*.tfstate.backup
+dist/
+build/
+.env
+.DS_Store
+*.log
+charts/
+terraform.tfvars
+.devcontainer/
